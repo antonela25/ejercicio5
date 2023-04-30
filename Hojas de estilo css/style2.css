@@ -1,0 +1,50 @@
+/*hoja de atributos para pag2  contactos formulario */
+
+/*atributos par el body*/
+
+body{
+    background-color:#f3b6b6;
+    text-align: center;}
+
+h2{
+color: #915858;
+text-align: center;}
+
+
+    /*atributos para el header*/
+    header{
+        background-color:#f8c6c6 ;
+        width: 100%;
+        height: 170px;
+         }
+
+
+/*atributos para el nav */
+
+nav{
+    border:3px double #a56c6c ;
+    background-color: #ffd7d7;
+}
+
+
+ul li{
+list-style: none;}
+
+
+
+/*atributos para el footer*/
+footer{
+    border:3px double #a56c6c ;
+    background-color: #ffd7d7;
+    width: 100%;
+    height: 150px;
+}
+
+/*atributos para el form*/
+form{
+    border: 4px groove #915858 ;
+    width: 40%;
+    margin-left: auto; 
+    margin-right: auto;
+
+}

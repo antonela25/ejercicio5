@@ -1,0 +1,88 @@
+/*hoja de estilo para pagina1 horarios de atencion */
+
+/*atributos par el body*/
+
+body{
+    background-color:#f3b6b6;
+    text-align: center;}
+
+h2{
+color: #915858;
+text-align: center;}
+
+
+    /*atributos para el header*/
+    header{
+        background-color:#f8c6c6 ;
+        width: 100%;
+        height: 170px;
+         }
+
+
+/*atributos para el nav */
+
+nav{
+    border:3px double #a56c6c ;
+    background-color: #ffd7d7;
+}
+
+
+ul li{
+list-style: none;}
+
+
+
+
+
+
+
+
+
+
+/* cuadro de horarios*/
+.cursiva{
+    font-style: italic;
+    font-size: 20px;
+    }
+ 
+ 
+ .negrita{
+     font-weight:bold ;
+     font-size: 25px;
+    ;}
+
+tr th{
+    color: aliceblue;
+}    
+ 
+
+.violeta{
+    color: rgb(229, 137, 229);}
+
+.azul{
+    color: rgb(92, 92, 245);}
+
+.celeste{
+    color: deepskyblue;}
+
+
+.naranja{
+    color: coral;}
+
+.amarillo{
+    color:gold;
+
+}
+
+.rosa{
+    color: rgb(243, 148, 163);
+}
+
+/*atributos para el footer*/
+
+footer{
+    border:3px double #a56c6c ;
+    background-color: #ffd7d7;
+    width: 100%;
+    height: 150px;
+}
